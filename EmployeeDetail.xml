@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EmployeeDetails>
+    <employee>
+        <companyDetail>
+            <companies>
+                <companyName>Company1</companyName>
+                <joiningDate>21-01-2016</joiningDate>
+                <lastWorkingDate>25-06-2018</lastWorkingDate>
+                <position>Jr. Software developer</position>
+            </companies>
+            <companies>
+                <companyName>Company2</companyName>
+                <joiningDate>15-07-2018</joiningDate>
+                <lastWorkingDate>01-06-2019</lastWorkingDate>
+                <position>Software developer</position>
+            </companies>
+            <companies>
+                <companyName>Company3</companyName>
+                <joiningDate>15-06-2019</joiningDate>
+                <lastWorkingDate>Present</lastWorkingDate>
+                <position>Sr. Software developer</position>
+            </companies>
+        </companyDetail>
+        <empId>1</empId>
+        <name>EmployeeName-1</name>
+    </employee>
+    <employee>
+        <companyDetail>
+            <companies>
+                <companyName>Company1</companyName>
+                <joiningDate>21-01-2016</joiningDate>
+                <lastWorkingDate>25-06-2018</lastWorkingDate>
+                <position>Jr. Software developer</position>
+            </companies>
+            <companies>
+                <companyName>Company2</companyName>
+                <joiningDate>15-07-2018</joiningDate>
+                <lastWorkingDate>01-06-2019</lastWorkingDate>
+                <position>Software developer</position>
+            </companies>
+            <companies>
+                <companyName>Company3</companyName>
+                <joiningDate>15-06-2019</joiningDate>
+                <lastWorkingDate>Present</lastWorkingDate>
+                <position>Sr. Software developer</position>
+            </companies>
+        </companyDetail>
+        <empId>2</empId>
+        <name>EmployeeName-2</name>
+    </employee>
+</EmployeeDetails>
