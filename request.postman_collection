@@ -1,0 +1,44 @@
+{
+	"info": {
+		"_postman_id": "9b8bfea5-6dd7-4fbb-98e7-fd705f6c488d",
+		"name": "Implementation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "XML-SFTP",
+			"item": [
+				{
+					"name": "Sample request",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<EmployeeRequest>\r\n    <id>1</id>\r\n    <id>2</id>\r\n</EmployeeRequest>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:9092/employee/xml/detail",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9092",
+							"path": [
+								"employee",
+								"xml",
+								"detail"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
